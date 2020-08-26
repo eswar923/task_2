@@ -1,0 +1,16 @@
+<ol>
+    <li>c_programming
+        <ul>
+	    <li>decision control and looping statements</li>
+	    <li>functions</li>
+	    <li>arrays</li>
+	    </ul>
+    </li>
+    <li>machine learning
+        <ul>
+	    <li>intro to ML</li>
+	    <li>decision tree learning</li>
+	    <li>artificial neural networks</li>
+	 </ul>   
+    </li>
+ </ol>   
