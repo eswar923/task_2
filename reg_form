@@ -16,11 +16,11 @@
   <textarea name="message" rows="5" cols="60"> </textarea>
   <p>subject intrested:</p>
   <input type="checkbox" id="subject1" name="subject1" value="physics">
-  <label for="subjecg1"> I have a physics</label><br>
+  <label for="subjecg1"> physics</label><br>
   <input type="checkbox" id="subject2" name="subject2" value="c language">
-  <label for="subject2"> I have a car</label><br>
+  <label for="subject2"> c language</label><br>
   <input type="checkbox" id="subject3" name="subject3" value="java">
-  <label for="subject3"> I have a boat</label><br><br>
+  <label for="subject3"> java</label><br><br>
   <input type="submit" value="Submit">
 </form>
 </body>
